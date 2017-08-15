@@ -27,3 +27,14 @@ install http://www.pivpn.io/ as pivpn
 go back to the other user
 delete password of pivpn and remove the sudo 
 install fail2ban
+fix iptables
+:compat mode: true
+	
+ sudo /sbin/iptables -P FORWARD ACCEPT
+ sudo /sbin/iptables --table nat -A POSTROUTING -o eth0 -j MASQUERADE
+
+Save iptables
+:compat mode: true
+ 
+ sudo bash -c "iptables-save > /etc/iptables/rules.v4"
+

@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "ichi"
+    "name": "ghostium"
   },
   "urls": {
     "site": "https://pamasse.github.io",
     "hubpress": "https://pamasse.github.io",
-    "theme": "//pamasse.github.io/themes/casper",
+    "theme": "//pamasse.github.io/themes/ichi",
     "images": "https://pamasse.github.io/images"
   },
   "initialisationConfigComponent": {

@@ -5,6 +5,10 @@
 // :hp-tags: HubPress, Blog, Open_Source,
 // :hp-alt-title: My English Title
 
+:compat mode: true
+
+ sudo apt-get update && sudo apt-get upgrade -y
+
 Create new user "pivpn"
 :compat mode: true
     
@@ -20,13 +24,22 @@ change to pivpn
 
 install http://www.pivpn.io/ as pivpn
 :compat mode: true
-
-	 curl -L https://install.pivpn.io | sudo bash
-     # IP 192.168.1.61 # Port 1149
+ 
+ curl -L https://install.pivpn.io | sudo bash
+ # IP 192.168.1.61 # Port 1149
      
 go back to the other user
 delete password of pivpn and remove the sudo 
+:compat mode: true
+
+ sudo passwd -d pivpn
+ sudo deluser pivpn sudo
+
 install fail2ban
+:compat mode: true
+
+ sudo apt-get install fail2ban
+    
 fix iptables
 :compat mode: true
 	

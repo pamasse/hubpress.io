@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "Roon"
+    "name": "roon"
   },
   "urls": {
     "site": "https://pamasse.github.io",
     "hubpress": "https://pamasse.github.io",
-    "theme": "//pamasse.github.io/themes/ghostium",
+    "theme": "//pamasse.github.io/themes/Roon",
     "images": "https://pamasse.github.io/images"
   },
   "initialisationConfigComponent": {

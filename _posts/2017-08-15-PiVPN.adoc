@@ -52,4 +52,6 @@ Save iptables
 :compat mode: true
  
  sudo bash -c "iptables-save > /etc/iptables/rules.v4"
+ 
+ Update Livebox ;)
 

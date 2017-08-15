@@ -6,7 +6,7 @@
     "cname": ""
   },
   "theme": {
-    "name": "casper"
+    "name": "ichi"
   },
   "urls": {
     "site": "https://pamasse.github.io",
@@ -25,8 +25,8 @@
     ]
   },
   "site": {
-    "title": "Titre",
-    "description": "",
+    "title": "Pamasse's Blog",
+    "description": "Plein de petit truc bien utile ;)",
     "logo": "",
     "cover": "",
     "delay": "",

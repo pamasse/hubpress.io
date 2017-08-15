@@ -27,6 +27,8 @@ install http://www.pivpn.io/ as pivpn
  
  curl -L https://install.pivpn.io | sudo bash
  # IP 192.168.1.61 # Port 1149
+ # public dns name => my url
+ # 80.67.169.12, 80.67.169.40
      
 go back to the other user
 delete password of pivpn and remove the sudo 

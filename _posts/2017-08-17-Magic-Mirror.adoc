@@ -8,8 +8,13 @@
 Le projet c'est de faire un mirroir magique :) 
 On va le faire le plus fin possible, mais aussi avec des features stylééé :p
 
+Face reco (pour personnaliser l'affichage)
+Camera pour prendre une photo et monitorer l'entré
+écran tactile pour lacher des notes <3
 
 === Materiel
 
 === Source
 https://forum.magicmirror.builders/topic/2075/magicmirror-on-pi-zero-w
+https://www.aliexpress.com/item/4-points-42-Infrared-Touch-Screen-frame-16-9-format-for-multi-touch-table-advertising-interactive/32582452717.html
+https://forum.magicmirror.builders/topic/1167/a-magic-mirror-with-touchinterface-made-from-noble-oak/16

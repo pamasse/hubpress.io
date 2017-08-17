@@ -1,0 +1,12 @@
+= Magic Mirror
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+// :published_at: 2019-01-31
+// :hp-tags: HubPress, Blog, Open_Source,
+// :hp-alt-title: My English Title
+
+Le projet c'est de faire un mirroir magique :) 
+On va le faire le plus fin possible, mais aussi avec des features stylééé :p
+
+
+=== Materiel

@@ -12,3 +12,4 @@ On va le faire le plus fin possible, mais aussi avec des features stylééé :p
 === Materiel
 
 === Source
+https://forum.magicmirror.builders/topic/2075/magicmirror-on-pi-zero-w
